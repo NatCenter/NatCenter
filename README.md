@@ -1,4 +1,14 @@
-### Hi there, I'm Nathan. 👋
+
+
+
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/34755641/156934886-80986934-5110-4aaa-ac5d-25deedb3a8f5.png)
+
+### Get in touch me
+
+LinkedIn: https://www.linkedin.com/in/nathan-center/
+
+Gmail: nathanjcenter@gmail.com 
+
 
 <!--
 **NatCenter/NatCenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
