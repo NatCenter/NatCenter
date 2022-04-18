@@ -3,7 +3,7 @@
 
 ![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/34755641/156934886-80986934-5110-4aaa-ac5d-25deedb3a8f5.png)
 
-### Get in touch me
+### Get in touch with me
 
 LinkedIn: https://www.linkedin.com/in/nathan-center/
 
