@@ -7,7 +7,7 @@
 
 LinkedIn: https://www.linkedin.com/in/nathan-center/
 
-Gmail: nathanjcenter@gmail.com 
+
 
 ### Bio
  A lover of technology and an avid computer builder. After working in the help-desk field for several years, I was ready to make a career change and took the opportunity to attend NSS. I'm highly proficient in React, HTML,CSS, JavaScript, C#,and SQL.
