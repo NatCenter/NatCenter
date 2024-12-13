@@ -10,7 +10,7 @@ LinkedIn: https://www.linkedin.com/in/nathan-center/
 
 
 ### Bio
- A lover of technology and an avid computer builder. After working in the help-desk field for several years, I was ready to make a career change and took the opportunity to attend NSS. I'm highly proficient in React, HTML,CSS, JavaScript, C#,and SQL.
+ A lover of technology and an avid computer builder. After working in the help-desk field for several years, I was ready to make a career change and took the opportunity to attend NSS. I'm highly proficient in React, HTML,CSS, JavaScript, C#,SQL, and Python.
 
 <!--
 **NatCenter/NatCenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
